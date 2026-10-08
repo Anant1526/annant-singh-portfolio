@@ -20,7 +20,7 @@ FEATURES
 ========================================
 - Full multi-page portfolio (Home, About, Skills, Projects, Blog, Contact)
 - Working contact form → saves to messages.json
-- View messages: http://localhost:3000/api/messages
+- View messages: http://localhost:3026/api/messages
 - Profile photo included
 - Social media SVG icons (replace # with your real links)
 
