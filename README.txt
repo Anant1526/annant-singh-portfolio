@@ -6,14 +6,14 @@ OPTION 1 — Express (recommended)
   npm install
   npm start
 
-  Open: http://localhost:3000
+  Open: http://localhost:3026
 
 ========================================
 OPTION 2 — Zero install (Node only)
 ========================================
   node server-native.js
 
-  Open: http://localhost:3000
+  Open: http://localhost:3026
 
 ========================================
 FEATURES
